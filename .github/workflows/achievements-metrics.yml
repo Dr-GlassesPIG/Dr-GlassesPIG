@@ -1,5 +1,5 @@
 # Read the full reference here: https://github.com/lowlighter/metrics/blob/master/action.yml
-name: Achievements 
+name: Achievements
 on:
   # Schedule updates (At minute 0 past every 12th hour)
   schedule: [{ cron: "0 */12 * * *" }]
@@ -8,7 +8,7 @@ on:
   push: { branches: ["master", "main", "metrics"] }
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/achievements/README.md
-  achievement-metrics:      
+  achievement-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
@@ -17,10 +17,10 @@ jobs:
           filename: assets/metrics.plugin.achievements.svg
 
           # Options
-          user: Anmol-Baranwal
+          user: Dr-GlassesPIG
           template: classic
           base: ""
-          config_timezone: Asia/Calcutta
+          config_timezone: EST
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes

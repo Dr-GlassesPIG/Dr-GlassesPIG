@@ -4,7 +4,7 @@ on:
   schedule: [{ cron: "0 */12 * * *" }]
   # Lines below let you run workflow manually with each commit
   workflow_dispatch:
-  push: { branches: ["master","main", "metrics"] }
+  push: { branches: ["master", "main", "metrics"] }
 jobs:
   # https://github.com/lowlighter/metrics/blob/master/source/plugins/leetcode/README.md
   leetcode-metrics:
@@ -16,7 +16,7 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
-          plugin_leetcode_user: anmol4coder
+          plugin_leetcode_user: Dr-GlassesPIG
           plugin_leetcode_sections: solved, skills, recent
           plugin_leetcode_limit_recent: 5
           plugin_leetcode_limit_skills: 7
