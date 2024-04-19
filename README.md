@@ -87,10 +87,10 @@
 | Audily (Hackathon-24hr)  |       [view](https://audily-ai.vercel.app/)       |     -      | `Next.js` `TypeScript` `Tailwind` `Node.js` `Express` `Gemini` `Deepgram Aura API` `Postman`     |
 | Handle Multiple Issues   |                         -                         |     -      | `TypeScript` `GitHub Actions` `GitHub API`                                                       |
 | Flutter Portfolio App    |                         -                         |     -      | `Dart` `Flutter` `Dot Navigation Bar`                                                            |
-| WaitSmart                |                         -                         |     --     | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3`                                     |
+| WaitSmart                |                         -                         |     -      | `Next.js` `JavaScript` `React` `Firebase` `Chakra UI` `CSS3`                                     |
 | Coffee Compass           |                         -                         |     -      | `Next.js` `JavaScript` `Postman` `Airtable Database` `CSS3`                                      |
 | MongoDB Query Fetcher    | [view](https://mongodb-query-fetcher.vercel.app/) |     -      | `Next.JS` `Node.JS` `Express.JS` `JavaScript` `MongoDB` `CSS3` `MongoDB Compass` `Postman`       |
-| Plasmo Chrome Extension  |                         -                         |  [view]-   | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`                           |
+| Plasmo Chrome Extension  |                         -                         |     -      | `Plasmo Framework` `TypeScript` `Tailwind CSS` `Google Chrome Browser`                           |
 | ToDo List Web App        |   [view](https://todo-list-k7qu.onrender.com/)    |     -      | `Node.JS` `Express.JS` `JavaScript` `MongoDB` `Bootstrap`                                        |
 | BabySteps                |    [view](https://baby-steps-rho.vercel.app/)     |     -      | `Next.js` `JavaScript` `Postman` `CSS3`                                                          |
 | Client's Portfolio       |                         -                         |     -      | `JavaScript` `Bootstrap` `jQuery` `Vanilla Tilt` `Owl Carousel` `Typed JS`                       |
