@@ -25,7 +25,7 @@
 
 <i>&nbsp; Building solutions with open source.</i><br><br>
 
-👋 Hi! I'm a full-stack developer from India, super into Open Source, and working as a Technical writer for international brands.
+👋 Hi! I'm a full-stack developer, super into Open Source, and working as a Technical writer for international brands.
 
 🔥 I have worked with more than 8 international teams like [Clinton Oh](https://github.com/clintonoh), [Farnaz Bagheri](https://github.com/Fabbiya), reaching an audience of over _100k_. If you need a technical writer, DM me on Twitter or LinkedIn.
 
